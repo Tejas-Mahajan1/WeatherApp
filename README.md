@@ -12,6 +12,13 @@
 <p> 6.API Integration</p>
 <p> 7.Accessibility</p>
 
+# ScreenShots :
+![Screenshot (217)](https://github.com/Tejas-Mahajan1/WeatherApp/assets/114793178/a06bc0bc-ecdc-47d2-aa7d-4f29f6beb2d2)
+![Screenshot (218)](https://github.com/Tejas-Mahajan1/WeatherApp/assets/114793178/a95877a5-ea62-4ed8-91c2-8aa9a3e74550)
+![Screenshot (219)](https://github.com/Tejas-Mahajan1/WeatherApp/assets/114793178/f9e21d82-eff7-4bfe-a2c5-af22afb48f31)
+![Screenshot (220)](https://github.com/Tejas-Mahajan1/WeatherApp/assets/114793178/0c0de8cd-fb8a-4ebf-9fb8-646cc579a895)
+![Screenshot (221)](https://github.com/Tejas-Mahajan1/WeatherApp/assets/114793178/be598348-64ea-42a8-a470-bfec2bbfa77b)
+
  # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
